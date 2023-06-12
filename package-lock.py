@@ -1,6 +1,6 @@
-{
+data = {
   "name": "teslamater",
   "lockfileVersion": 3,
-  "requires": true,
+  "requires": True,
   "packages": {}
 }
